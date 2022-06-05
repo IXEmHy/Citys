@@ -1,0 +1,10 @@
+﻿  Города.cpp
+C:\Users\№9\source\repos\Города\Города.cpp(24,17): warning C4244: инициализация: преобразование "std::streamoff" в "size_t", возможна потеря данных
+C:\Users\№9\source\repos\Города\Города.cpp(38,18): warning C4244: инициализация: преобразование "std::streamoff" в "size_t", возможна потеря данных
+C:\Users\№9\source\repos\Города\Города.cpp(51,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\№9\source\repos\Города\Города.cpp(139,66): warning C4267: аргумент: преобразование из "size_t" в "const _Elem"; возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  Города.vcxproj -> C:\Users\№9\source\repos\Города\Debug\Города.exe
